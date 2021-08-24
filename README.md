@@ -1,10 +1,10 @@
 ### Hello from James Liu 👋
 
-<img src="https://fonts.gstatic.com/s/i/productlogos/googleg/v6/web-24dp/logo_googleg_color_1x_web_24dp.png" width="20" height="20" /> Google Engineer
+<img src="https://fonts.gstatic.com/s/i/productlogos/googleg/v6/web-24dp/logo_googleg_color_1x_web_24dp.png" width="16" height="16" /> Google Engineer
 
-<img src="https://raw.githubusercontent.com/kubeflow/kubeflow/master/components/centraldashboard/public/assets/favicon-32x32.png" width="20" height="20" /> Currently working on Kubeflow and Kubeflow Pipelines.
+<img src="https://raw.githubusercontent.com/kubeflow/kubeflow/master/components/centraldashboard/public/assets/favicon-32x32.png" width="16" height="16" /> Currently working on Kubeflow and Kubeflow Pipelines.
 
-<img src="https://fonts.gstatic.com/s/i/productlogos/firebase/v7/web-24dp/logo_firebase_color_1x_web_24dp.png" width="20" height="20" /> Previously worked on Firebase.
+<img src="https://fonts.gstatic.com/s/i/productlogos/firebase/v7/web-24dp/logo_firebase_color_1x_web_24dp.png" width="16" height="16" /> Previously worked on Firebase.
 
 <!--
 **zijianjoy/zijianjoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
